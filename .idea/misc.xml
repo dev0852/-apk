@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shy/Desktop/MyApp/Map/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1215" />
+        <entry key="..\:/Users/shy/Desktop/MyApp/Map/app/src/main/res/layout/activity_main.xml" value="0.24954710144927536" />
+        <entry key="..\:/code/Map/app/src/main/res/drawable/btn_default_small.xml" value="0.1" />
+        <entry key="..\:/code/Map/app/src/main/res/drawable/whiteborder.xml" value="0.1" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/abroadmap_activity.xml" value="0.35520833333333335" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/activity_inputtip.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/activity_main.xml" value="0.32114882506527415" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/activity_route_detail.xml" value="0.35520833333333335" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/activity_two_map.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/arc_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/basemap_fragment_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/basicmap_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/busline_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/busline_dialog.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/busline_item.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/circle_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/custommarker_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/location.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/location2screen_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/locationmodesource_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/locationsource_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/polyline_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/preview_photo_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/route_inputs.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/routepoi_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/routesearch_list_poi.xml" value="0.24427083333333333" />
+        <entry key="..\:/code/Map/app/src/main/res/layout/share_activity.xml" value="0.24427083333333333" />
+        <entry key="..\:/jetbrains/projectall/Map/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
